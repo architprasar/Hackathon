@@ -1,5 +1,5 @@
 # Tis app is live on
-<h1 align="center">[Hackathon 🚀](https://myhackathon.netlify.app) </h1>
+[Hackathon](https://myhackathon.netlify.app)
 # Design System
 
 All the design has been generated with [tailwindcss](https://tailwindcss.com/).
