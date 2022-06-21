@@ -1,4 +1,4 @@
-# Tis app is live on
+# This app is live on
 [Hackathon](https://myhackathon.netlify.app)
 # Design System
 
